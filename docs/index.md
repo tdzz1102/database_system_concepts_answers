@@ -8,7 +8,7 @@
 
 ## Copyright
 
-The copyright belongs to [noahabe/database_system_concepts_answers](https://github.com/noahabe/database_system_concepts_answers). I just forked the original repo and built it with [mkdocs](https://www.mkdocs.org/), making it easier to read. If it's useful to you, please star it. (and also [my deployment](https://github.com/tdzz1102/database_system_concepts_answers))^ ^_
+The copyright belongs to [noahabe/database_system_concepts_answers](https://github.com/noahabe/database_system_concepts_answers). I just forked the original repository and built it with [mkdocs](https://www.mkdocs.org/), making it easier to read. If it's useful to you, please star it. (and also [my repository](https://github.com/tdzz1102/database_system_concepts_answers))^ ^_
 
 ## Additionally
 
