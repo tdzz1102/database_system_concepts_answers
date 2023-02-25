@@ -14,4 +14,4 @@
 
 The solutions belongs to [noahabe/database_system_concepts_answers](https://github.com/noahabe/database_system_concepts_answers), and I deployed it with [mkdocs](mkdocs.org).
 
-To read the solutions you need, please visit [the deployment page]([https://tdzz1102.github.io/database_system_concepts_answers/).
+To read the solutions you need, please visit [the deployment page]([https://database-system-concepts-answers.readthedocs.io/).
